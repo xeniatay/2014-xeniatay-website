@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xenia Tay | Design and Development</title>
+    <description>4th year Computer Science student, minoring in Fine Arts Studio at the University of Waterloo. This is Xenia&#39;s design and development portfolio.</description>
+    <link>http://xeniatay.comhttp://xeniatay.com/xeniatay.github.io/</link>
+    <atom:link href="http://xeniatay.comhttp://xeniatay.com/xeniatay.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
